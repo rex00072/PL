@@ -1,0 +1,24 @@
+{
+    "foods": [
+        {
+            "id": "1",
+            "name": "Food1"
+        },
+        {
+            "id": "2",
+            "name": "Food2"
+        },
+        {
+            "id": "3",
+            "name": "Food3"
+        },
+        {
+            "id": "4",
+            "name": "Food4"
+        },
+        {
+            "id": "5",
+            "name": "Food5"
+        }
+    ]
+}
